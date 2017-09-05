@@ -410,7 +410,7 @@ CONFIG_MACH_MT7623=y
 # CONFIG_ARCH_WM8850 is not set
 # CONFIG_ARCH_ZX is not set
 # CONFIG_ARCH_ZYNQ is not set
-CONFIG_RTL8814AU=y
+CONFIG_RTL8814AU=m
 
 #
 # Processor Type
